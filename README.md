@@ -1,9 +1,10 @@
 # Power BI para Controle de Parceiros de Campo (Técnicos)
 
-<img width="1498" height="835" alt="image" src="https://github.com/user-attachments/assets/00ee1610-1cb6-4d93-9e48-5ceb306d2167" /><br><br><br>
-<img width="1500" height="838" alt="image" src="https://github.com/user-attachments/assets/e76fbf1a-4dc6-496f-a08a-bf29555d2186" /><br><br><br>
-<img width="1495" height="842" alt="image" src="https://github.com/user-attachments/assets/14f070e8-df82-4244-b0d9-5bbc582d32d6" /><br><br><br>
-<img width="1494" height="841" alt="image" src="https://github.com/user-attachments/assets/49f019c9-f4e5-41b5-9495-a0344b41509d" /><br><br><br>
+<img width="1302" height="726" alt="image" src="https://github.com/user-attachments/assets/25abdd65-191d-4efd-9cac-26473ce5de6f" /><br><br><br>
+<img width="1446" height="740" alt="image" src="https://github.com/user-attachments/assets/5c1c9236-e82c-4b70-aadd-3e20b0ebe834" /><br><br><br>
+<img width="1317" height="727" alt="image" src="https://github.com/user-attachments/assets/76e01a6b-c4d5-46f6-82b5-3ca3cf870ea6" /><br><br><br>
+<img width="1377" height="741" alt="image" src="https://github.com/user-attachments/assets/6042e164-7a44-40f5-b363-ee81283911b6" /><br><br><br>
+
 
 ### 📋 Descrição do Projeto
 
