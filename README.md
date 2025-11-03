@@ -35,4 +35,4 @@ Este projeto não demonstra apenas o meu desenvolvimento técnico com a ferramen
   
 ## ✒️ Autores
 
-* **Mateus Franco Bezerra** - *Business Intelligence (BI)* - POWERBI-CONTROLE-OPERACIONAL
+* **Mateus Franco Bezerra** - *Business Intelligence (BI)* - POWERBI-CONTROLE-TECNICOS
