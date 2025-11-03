@@ -12,12 +12,12 @@ Ao decorrer de algumas semanas, desenvolvi este projeto em Power BI focado no co
 
 #### Funcionalidades principais
 
-Através de filtros e gráficos, é possível:
-✅ Visualizar a distribuição geográfica dos parceiros
-✅ Consultar dados por estado, cidade e região
-✅ Filtrar por status de liberação e, em caso de bloqueio, suas razões
-✅ Localizar rapidamente qualquer parceiro pesquisando-o
-✅ Analisar em tempo real a base de dados com atualizações automáticas
+Através de filtros e gráficos, é possível:<br>
+✅ Visualizar a distribuição geográfica dos parceiros<br>
+✅ Consultar dados por estado, cidade e região<br>
+✅ Filtrar por status de liberação e, em caso de bloqueio, suas razões<br>
+✅ Localizar rapidamente qualquer parceiro pesquisando-o<br>
+✅ Analisar em tempo real a base de dados com atualizações automáticas<br>
 
 Este projeto utiliza dados em Excel, publicados e integrados ao Power BI, tornando a gestão mais eficiente.
 
