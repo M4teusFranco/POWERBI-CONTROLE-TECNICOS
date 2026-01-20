@@ -1,9 +1,8 @@
 # Power BI para Controle de Parceiros de Campo (Técnicos)
-
-<img width="1302" height="726" alt="image" src="https://github.com/user-attachments/assets/25abdd65-191d-4efd-9cac-26473ce5de6f" /><br><br><br>
-<img width="1446" height="740" alt="image" src="https://github.com/user-attachments/assets/5c1c9236-e82c-4b70-aadd-3e20b0ebe834" /><br><br><br>
-<img width="1317" height="727" alt="image" src="https://github.com/user-attachments/assets/76e01a6b-c4d5-46f6-82b5-3ca3cf870ea6" /><br><br><br>
-<img width="1377" height="741" alt="image" src="https://github.com/user-attachments/assets/6042e164-7a44-40f5-b363-ee81283911b6" /><br><br><br>
+<img width="956" height="520" alt="image" src="https://github.com/user-attachments/assets/237163d7-c4a8-4624-b47e-1bb103388d46" />
+<img width="966" height="517" alt="image" src="https://github.com/user-attachments/assets/ad459a34-8f92-400b-bdf4-2986567a0fba" />
+<img width="938" height="513" alt="image" src="https://github.com/user-attachments/assets/90d4eede-b474-40ba-adea-2c128207b40d" />
+<img width="939" height="512" alt="image" src="https://github.com/user-attachments/assets/ace94f7b-eea1-42bb-b70d-e9ec214f44ad" />
 
 
 ### 📋 Descrição do Projeto
@@ -17,6 +16,8 @@ Através de filtros e gráficos, é possível:<br>
 ✅ Consultar dados por estado, cidade e região<br>
 ✅ Filtrar por status de liberação e, em caso de bloqueio, suas razões<br>
 ✅ Localizar rapidamente qualquer parceiro pesquisando-o<br>
+✅ Visualizar a logotipo de cada um dos parceiros de campo<br>
+✅ Analisar o valor dos principais atendimentos de cada um dos técnicoss<br>
 ✅ Analisar em tempo real a base de dados com atualizações automáticas<br>
 
 Este projeto utiliza dados em Excel, publicados e integrados ao Power BI, tornando a gestão mais eficiente.
