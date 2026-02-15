@@ -9,6 +9,9 @@
 
 Ao decorrer de algumas semanas, desenvolvi este projeto em Power BI focado no controle e análise de Parceiros de Campo (Técnicos de Informática) para suporte à clientes espalhados por todo o Brasil, permitindo uma visualização interativa das informações.
 
+🔗 Acesse o projeto completo pelo link: https://app.powerbi.com/view?r=eyJrIjoiODY3NTMzZmItNTRmYi00NGJjLTljMzYtMTcxODUwN2NmMWI4IiwidCI6IjU3Y2M5YjJmLTJmOWUtNDVkNS1iZDNlLWM4MTg3ZDkzMzA4MyJ9
+
+
 #### ⚙️ Funcionalidades principais
 
 Através de filtros e gráficos, é possível:<br>
@@ -21,8 +24,6 @@ Através de filtros e gráficos, é possível:<br>
 ✅ Analisar em tempo real a base de dados com atualizações automáticas<br>
 
 Este projeto utiliza dados em Excel, publicados e integrados ao Power BI, tornando a gestão mais eficiente.
-
-🔗 Acesse o projeto completo pelo link: https://app.powerbi.com/view?r=eyJrIjoiODY3NTMzZmItNTRmYi00NGJjLTljMzYtMTcxODUwN2NmMWI4IiwidCI6IjU3Y2M5YjJmLTJmOWUtNDVkNS1iZDNlLWM4MTg3ZDkzMzA4MyJ9
 
 #### 🛠️ Ferramentas utilizadas
 
