@@ -11,6 +11,7 @@ Ao decorrer de algumas semanas, desenvolvi este projeto em Power BI focado no co
 
 🔗 Acesse o projeto completo pelo link: https://app.powerbi.com/view?r=eyJrIjoiODY3NTMzZmItNTRmYi00NGJjLTljMzYtMTcxODUwN2NmMWI4IiwidCI6IjU3Y2M5YjJmLTJmOWUtNDVkNS1iZDNlLWM4MTg3ZDkzMzA4MyJ9
 
+---
 
 #### ⚙️ Funcionalidades principais
 
@@ -25,16 +26,22 @@ Através de filtros e gráficos, é possível:<br>
 
 Este projeto utiliza dados em Excel, publicados e integrados ao Power BI, tornando a gestão mais eficiente.
 
+---
+
 #### 🛠️ Ferramentas utilizadas
 
 - Power BI Desktop
 - Base de Dados (ex: Excel, CSV, SQL)
 - Funções DAX
 
+---
+
 ‼️ É valido ressaltar que todos os dados utilizados nesta aplicação são fictícios, não contendo dados reais de indivíduos.
 
 Este projeto não demonstra apenas o meu desenvolvimento técnico com a ferramenta, como também um compromisso com soluções visuais que apoiem a tomada de decisão com dados claros e acessíveis.
   
+---
+
 ## ✒️ Autores
 
 * **Mateus Franco Bezerra** - *Business Intelligence (BI)* - POWERBI-CONTROLE-TECNICOS
