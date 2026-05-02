@@ -1,8 +1,8 @@
 # 📊 Dashboard para Controle de Parceiros de Campo (Técnicos)
-<img width="956" height="520" alt="image" src="https://github.com/user-attachments/assets/237163d7-c4a8-4624-b47e-1bb103388d46" />
-<img width="966" height="517" alt="image" src="https://github.com/user-attachments/assets/ad459a34-8f92-400b-bdf4-2986567a0fba" />
-<img width="938" height="513" alt="image" src="https://github.com/user-attachments/assets/90d4eede-b474-40ba-adea-2c128207b40d" />
-<img width="939" height="512" alt="image" src="https://github.com/user-attachments/assets/ace94f7b-eea1-42bb-b70d-e9ec214f44ad" />
+<img width="956" height="520" alt="image" src="https://github.com/user-attachments/assets/237163d7-c4a8-4624-b47e-1bb103388d46" /><br>
+<img width="966" height="517" alt="image" src="https://github.com/user-attachments/assets/ad459a34-8f92-400b-bdf4-2986567a0fba" /><br>
+<img width="938" height="513" alt="image" src="https://github.com/user-attachments/assets/90d4eede-b474-40ba-adea-2c128207b40d" /><br>
+<img width="939" height="512" alt="image" src="https://github.com/user-attachments/assets/ace94f7b-eea1-42bb-b70d-e9ec214f44ad" /><br>
 
 
 ### 📋 Descrição do Projeto
